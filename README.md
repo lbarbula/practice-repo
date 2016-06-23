@@ -8,5 +8,4 @@ _ewwww ITALIC!!!_
   - Three things!
 
 
-![GitHub Logo]
-Format: ![Alt Text](https://devluchadore.files.wordpress.com/2012/07/ihategit.jpg?w=614)
+![image of git](https://devluchadore.files.wordpress.com/2012/07/ihategit.jpg?w=614)
